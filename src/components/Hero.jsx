@@ -290,15 +290,15 @@ const experiences = [
   {
     role: "Medical Billing Specialist",
     company: "HealthFirst Billing Solutions",
-    period: "2023 – Present",
-    type: "Full-time",
+    period: "2025 – 2026",
+    type: "Full-time- Remote",
     color: "#2563eb",
     points: ["Processed 500+ claims monthly with a 98.4% clean claim rate", "Reduced AR aging by 35% through proactive follow-up strategies", "Trained 3 junior billers on ICD-10 coding best practices"],
   },
   {
     role: "Billing & Coding Intern",
     company: "MediCare Associates",
-    period: "2022 – 2023",
+    period: "2024 – 2025",
     type: "Internship",
     color: "#7c3aed",
     points: ["Assisted in processing 200+ insurance verifications weekly", "Supported denial management team recovering $80K in 6 months", "Maintained 100% accuracy in CPT and ICD-10 code assignments"],
@@ -621,13 +621,13 @@ const Hero = () => {
       <Section bg="#fff" id="contact">
         <SectionTitle label="Get In Touch" title="Ready to Work Together?" sub="Let's discuss how I can help streamline your billing and maximize your revenue." />
         <div className="contact-grid">
-          <ContactCard icon={Mail}    label="Email"    value="sohaib@billing.com"  color="#2563eb" />
-          <ContactCard icon={Phone}   label="Phone"    value="+1 (555) 123-4567"   color="#059669" />
-          <ContactCard icon={MapPin}  label="Location" value="Available Remotely"  color="#7c3aed" />
+          <ContactCard icon={Mail}    label="Email"    value="suhaibkhalid65@gmail.com"  color="#2563eb" />
+          <ContactCard icon={Phone}   label="Phone"    value="+92 321 6820506"   color="#059669" />
+          <ContactCard icon={MapPin}  label="Location" value="Remote Pakistan"  color="#7c3aed" />
         </div>
         <FadeIn delay={0.3}>
           <div style={{ textAlign: "center", marginTop: 48 }}>
-            <a href="mailto:sohaib@billing.com" style={{ display: "inline-flex", alignItems: "center", gap: 10, padding: "16px 40px", background: "linear-gradient(135deg,#2563eb,#1d4ed8)", color: "#fff", fontSize: 16, fontWeight: 700, borderRadius: 14, textDecoration: "none", boxShadow: "0 8px 28px rgba(37,99,235,.35)", fontFamily: "'Sora', sans-serif", border: "none" }}>
+            <a href="mailto:suhaibkhalid65@gmail.com" style={{ display: "inline-flex", alignItems: "center", gap: 10, padding: "16px 40px", background: "linear-gradient(135deg,#2563eb,#1d4ed8)", color: "#fff", fontSize: 16, fontWeight: 700, borderRadius: 14, textDecoration: "none", boxShadow: "0 8px 28px rgba(37,99,235,.35)", fontFamily: "'Sora', sans-serif", border: "none" }}>
               <Mail size={18} /> Send a Message
             </a>
           </div>
